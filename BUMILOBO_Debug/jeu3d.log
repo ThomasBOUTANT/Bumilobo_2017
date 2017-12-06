@@ -1,0 +1,71 @@
+﻿  window.cpp
+  timer.cpp
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(106): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(123): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(140): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(157): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(174): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\timer.cpp(191): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: voir la déclaration de 'localtime'
+  quaternion.cpp
+  ogl.cpp
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\ogl.cpp(66): warning C4838: la conversion de 'int' en 'BYTE' requiert une conversion restrictive
+  maths_3d.cpp
+  main.cpp
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(135): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(279): warning C4305: 'argument' : troncation de 'double' à 'GLclampf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(399): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(523): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(524): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(535): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(536): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(554): warning C4244: 'argument' : conversion de 'int' en 'GLfloat', perte possible de données
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(595): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(596): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(672): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(710): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(730): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(845): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(846): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(904): warning C4305: '+=' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(905): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\main.cpp(909): warning C4305: 'argument' : troncation de 'double' à 'float'
+  load.cpp
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(53): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(67): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(90): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: voir la déclaration de 'fscanf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\load.cpp(230): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+  input.cpp
+  debug.cpp
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\debug.cpp(40): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: voir la déclaration de 'vsprintf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\debug.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: voir la déclaration de 'sprintf'
+c:\users\thomas\desktop\opengl\projet jeu opengl\projet jeu empty\sources\debug.cpp(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: voir la déclaration de 'sprintf'
+  camera.cpp
+  Génération de code en cours...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(C:\Users\Thomas\Desktop\OpenGL\PROJET JEU OpenGL\PROJET JEU Empty\projet\Debug\jeu3d.exe) ne correspond pas à la valeur de la propriété OutputFile (C:\Users\Thomas\Desktop\OpenGL\PROJET JEU OpenGL\PROJET JEU Empty\projet\Debug\BUMILOBO.exe) de Linker. Cela peut entraîner une génération incorrecte de votre projet. Pour corriger ce problème, vérifiez que les valeurs des propriétés $(OutDir), $(TargetName) et $(TargetExt) correspondent à la valeur spécifiée dans %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1200,5): warning MSB8012: TargetName(jeu3d) ne correspond pas à la valeur de la propriété OutputFile (BUMILOBO) de Linker. Cela peut entraîner une génération incorrecte de votre projet. Pour corriger ce problème, vérifiez que les valeurs des propriétés $(OutDir), $(TargetName) et $(TargetExt) correspondent à la valeur spécifiée dans %(Link.OutputFile).
+camera.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  jeu3d.vcxproj -> C:\Users\Thomas\Desktop\OpenGL\PROJET JEU OpenGL\PROJET JEU Empty\projet\Debug\jeu3d.exe
+  jeu3d.vcxproj -> Debug\jeu3d.pdb (Full PDB)
